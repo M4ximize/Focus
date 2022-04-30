@@ -107,7 +107,8 @@ margin: -20px auto 40px ;
   background: rgb(13, 94, 49);
   background: linear-gradient(70deg, #1e4027 0%, #153219 65%);
   font-size: 3.5rem;
-  box-shadow: 1rem 1.5rem 2rem #00000099
+  box-shadow: 1rem 1.5rem 2rem #00000099;
+  margin-bottom: 40px;
 }
 
 .button-wrapper {
