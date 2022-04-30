@@ -76,6 +76,7 @@ margin: -20px auto 40px ;
   font-weight: 500;
   font-family: 'Montserrat', sans-serif;
   background-color: #0000008e;
+  font-size: 12px;
 }
 
 .active-label {
@@ -124,6 +125,9 @@ button {
   min-width: 80px;
   cursor: pointer;
 }
+button .config{
+  margin-top: 16px;
+}
 
 .button-wrapper{
   margin: 0px 30px 160px;
@@ -167,7 +171,7 @@ font-weight: 500;
   border-radius: 50%;
   margin: 0px 16px;
   text-align: center;
-  font-size:12px;
+  font: size 20px;
 }
 
 .input-wrapper div{
@@ -183,5 +187,6 @@ justify-items: center;
   background-image: linear-gradient(170deg, rgb(236, 236, 236) 45%, rgb(156, 156, 156) 96%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-size: 16px;
   font-weight: 500;
 }

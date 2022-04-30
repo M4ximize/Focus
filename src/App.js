@@ -51,7 +51,7 @@ const App = () => {
             />
           </li>
         </ul>
-        <Button title="Configurações" _callback={SettingsBtn} />
+        <Button  className="config" title="Configurações" _callback={SettingsBtn} />
         <div className="timer-container">
           <div className="time-wrapper">
               <CountdownAnimation
