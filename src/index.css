@@ -29,6 +29,7 @@ img{
   min-height: 100vh;
   background: rgb(13, 94, 49);
   background: radial-gradient(circle, #1e4027 0%, #153219 65%); 
+  padding: 20px;
 }
 
 .container h1 {
