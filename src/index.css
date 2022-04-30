@@ -196,7 +196,7 @@ justify-items: center;
   background-image: linear-gradient(170deg, rgb(236, 236, 236) 45%, rgb(156, 156, 156) 96%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 500;
   padding: 12px;
 }
